@@ -1,0 +1,64 @@
+.first{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.first>h1{
+    font-size: 3rem;
+}
+
+.first>p{
+    font-size: 1.8rem;
+}
+
+
+#btn{
+    background-color: #387ed1;
+    color:white;
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+#btn:hover{
+    background-color: black;
+}
+
+
+.second{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 30px;
+    color: #424242;
+}
+
+
+#second_2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+#news{
+    display: block;
+    margin: auto;
+}
+
+
+.third{
+    padding: 0px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#third_1{
+    display: flex;
+    align-items: center;
+    column-gap: 0;
+}

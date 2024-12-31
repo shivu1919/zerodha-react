@@ -1,6 +1,11 @@
 .footer{
     display: flex;
     padding: 25px 60px;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: #fbfbfb;
+}
+
+
+#second{
+    color:#424242;
 }
